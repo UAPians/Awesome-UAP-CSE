@@ -166,9 +166,7 @@ A: Yes, if they're industry-relevant and get 2+ approvals
 
 ---
 
-```
 [//]: # (Footer)
 [🏫 Visit UAP](https://uap-bd.edu) | 
 [💬 Join Discord](https://discord.gg/uap-cse) | 
 [📰 Read Blog](https://uapians.dev/blog)
-```
